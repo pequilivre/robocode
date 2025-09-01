@@ -41,4 +41,21 @@ Para alunos matriculados na disciplina de Inteligência Artificial 2025.2 na Uni
 
 ## <a name="tutoriais"></a>Tutoriais e Outros Recursos
 
-- Página Oficial do Robocode: <https://robocode.sourceforge.io/>
+- Página Oficial do Robocode: <br>
+<https://robocode.sourceforge.io/>
+- Documentação Oficial do Robocode: <br>
+<https://robowiki.net/wiki/Main_Page>
+- Manual do RoboCode (Prof. Helder Linhares Bertoldo dos Reis (UFJF): <br>
+<https://wiki.sj.ifsc.edu.br/images/7/73/ITL60801-Robocode-Manual2.pdf>
+- Curso de Robocode no Youtube em 4 aulas com o Prof. José de Assis (Senac-SP): <br>
+<https://www.youtube.com/watch?v=XSCP6cddqRA&list=PLbEOwbQR9lqxdW98mY-40IZQ5i8ZZyeQx&index=37>
+- Curso de Robótica com RoboCode (Centro Paula Souza): <br>
+<http://www.robotica.cpscetec.com.br/material.php?ano=2025&atv=6>
+- Curso de RoboCode do Prof. Adam Bignold (*in English*): <br>
+<https://www.youtube.com/watch?v=GyVH8_C1QbQ&list=PLEb0SeDAVThdFdhrKLEF4-xjOjOVhncmT>
+- *Robocode Crash Course* com o Prof. Spencer (*in English*): <br>
+<https://www.youtube.com/watch?v=uzu7iFFC9vI&list=PLdmQEhafuhGo-mYI3pl2y_27OSE85w8GZ&index=1>
+
+## Organização e Contato
+
+Prof. Esdras L. Bispo Jr. (<bispojr@ufj.edu.br>)
