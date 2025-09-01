@@ -1,5 +1,12 @@
 # Torneio de Robocode
 
+-  [Informações Gerais](#info-geral)
+-  [Regras](#regras)
+-  [Datas Importantes](#datas-importantes)
+-  [Premiação](#premiacao)
+
+## <a name="info-geral"></a>Informações Gerais
+
 **Data:** Quarta, 17 de setembro de 2025 (dentro do [CONACET 2025](https://sites.google.com/ufj.edu.br/conacet2025))
 
 **Horário:** 09h00-12h00
@@ -7,7 +14,7 @@
 **Local:** $${\color{red}\textsf{A definir}}$$
 
 
-## Regras
+## <a name="regras"></a>Regras
 
 **Definição dos grupos:** Através do ranqueamento pelo desempenho médio em 20 partidas contra os bots *Crazy*, *Corners*, *Fire*, e *Walls*.
 
@@ -23,10 +30,10 @@
 
 **:**
 
-## Datas importantes
+## <a name="datas-importantes"></a>Datas importantes
 
 - **Inscrição do bot:** até dia 15 de setembro, 8h da manhã, (via Formulário do Google ($${\color{red}\textsf{A informar em breve}}$$)).
 
-## Premiação
+## <a name="premiacao"></a>Premiação
 
 Para alunos matriculados na disciplina de Inteligência Artificial 2025.2 na Universidade Federal de Jataí (UFJ), o responsável pelo bot inscrito que chegar mais longe na competição receberá um *voucher* para um rodízio de pizza junto com a turma (possivelmente na sexta-feira, dia 19 de setembro de 2025). 
