@@ -1,5 +1,7 @@
 # Torneio de Robocode (Versão 1.0)
 
+![Logo oficial do Robocode](https://robocode.sourceforge.io/gfx/robocode_logo_tanks.png)
+
 -  [Informações Gerais](#info-geral)
 -  [Regras](#regras)
 -  [Datas Importantes](#datas-importantes)
