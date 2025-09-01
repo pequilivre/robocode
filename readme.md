@@ -1,9 +1,10 @@
-# Torneio de Robocode
+# Torneio de Robocode (Versão 1.0)
 
 -  [Informações Gerais](#info-geral)
 -  [Regras](#regras)
 -  [Datas Importantes](#datas-importantes)
 -  [Premiação](#premiacao)
+-  [Tutoriais e outros recursos](#tutoriais)
 
 ## <a name="info-geral"></a>Informações Gerais
 
@@ -16,11 +17,11 @@
 
 ## <a name="regras"></a>Regras
 
-**Definição dos grupos:** Através do ranqueamento pelo desempenho médio em 20 partidas contra os bots *Crazy*, *Corners*, *Fire*, e *Walls*.
+**Definição dos grupos:** Através do ranqueamento pelo desempenho médio em 20 rodadas (*round*) contra os bots *Crazy*, *Corners*, e *Fire*.
 
-**Tamanho dos grupos:** Serão realizados os chaveamentos para as disputas com grupos de quatro bots. Apenas dois bots passam para a próxima fase. Na eventualidade de um grupo sorteado com apenas três bots, o quarto bot será o *Crazy* (passando para a próxima fase apenas os dois melhores bots inscritos).
+**Tamanho dos grupos:** Serão realizados os chaveamentos para as batalhas (*battle*) em grupos de quatro bots. Apenas dois bots passam para a próxima fase. Na eventualidade de um grupo sorteado com apenas três bots, o quarto bot dessa batalha será o *Crazy* (passando para a próxima fase apenas os dois melhores bots inscritos).
 
-**Quantidade de batalhas:** Em cada disputa, ocorrerão 3 batalhas com transmissão ao vivo durante o torneio. A partir das quartas-de-final, serão ocorrerão 5 batalhas em cada disputa.
+**Quantidade de batalhas:** Em cada batalha, ocorrerão 3 rodadas com transmissão ao vivo durante o torneio. A partir das quartas-de-final, ocorrerão 5 rodadas em cada batalha.
 
 **Tamanho do Robô:**  MicroBot (código até 750 bytes)
 
@@ -28,7 +29,7 @@
 
 **Grupos:** de 1 a 3 pessoas
 
-**:**
+**Participação:** Qualquer grupo de 1 a 3 pessoas (sendo da UFJ ou não). 
 
 ## <a name="datas-importantes"></a>Datas importantes
 
@@ -37,3 +38,7 @@
 ## <a name="premiacao"></a>Premiação
 
 Para alunos matriculados na disciplina de Inteligência Artificial 2025.2 na Universidade Federal de Jataí (UFJ), o responsável pelo bot inscrito que chegar mais longe na competição receberá um *voucher* para um rodízio de pizza junto com a turma (possivelmente na sexta-feira, dia 19 de setembro de 2025). 
+
+## <a name="tutoriais"></a>Tutoriais e Outros Recursos
+
+- Página Oficial do Robocode: <https://robocode.sourceforge.io/>
