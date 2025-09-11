@@ -1,4 +1,4 @@
-# Torneio de Robocode (Versão 1.0)
+# Torneio de Robocode (Versão 1.5)
 
 ![Logo oficial do Robocode](https://robocode.sourceforge.io/gfx/robocode_logo_tanks.png)
 
@@ -31,15 +31,17 @@
 
 **Grupos:** de 1 a 3 pessoas
 
-**Participação:** Qualquer grupo de 1 a 3 pessoas (sendo da UFJ ou não). 
+**Participação:** Qualquer grupo de 1 a 3 pessoas (sendo da UFJ ou não).
+
+**Uso de agentes de inteligência artificial para a criação do bot:** Este é um espaço para diversão e aprendizagem. Não há desejo algum de que este seja um torneio de quem encontre o melhor bot "na internet" e vença a competição. Explore essa oportunidade como uma chance de aprender mais sobre agentes inteligentes, implementação de software, e ter um pouco mais de experiência com o desenvolvimento de sistemas baseados em eventos. Utilize ferramentas de inteligência artificial (e.g., ChatGPT, DeepSeek) para contribuir na evolução do seu aprendizado, e não o oposto. Uma [formação crítica](https://periodicos.newsciencepubl.com/arace/article/view/6295) é muito mais interessante para o seu futuro do que uma dependência de ferramentas como essas. 
 
 ## <a name="datas-importantes"></a>Datas importantes
 
-- **Inscrição do bot:** até dia 15 de setembro, 8h da manhã, (via Formulário do Google ($${\color{red}\textsf{A informar em breve}}$$)).
+- **Inscrição do bot:** até dia 15 de setembro, 8h da manhã, (via Formulário do Google <https://forms.gle/z3kkMyNwzV2c9jDTA>).
 
 ## <a name="premiacao"></a>Premiação
 
-Para alunos matriculados na disciplina de Inteligência Artificial 2025.2 na Universidade Federal de Jataí (UFJ), o responsável pelo bot inscrito que chegar mais longe na competição receberá um *voucher* para um rodízio de pizza junto com a turma (possivelmente na sexta-feira, dia 19 de setembro de 2025). 
+Para alunos matriculados na disciplina de Inteligência Artificial 2025.2 na Universidade Federal de Jataí (UFJ), o responsável pelo bot inscrito que chegar mais longe na competição receberá um *voucher* para um rodízio de pizza junto com a turma (possivelmente na sexta-feira, dia 19 de setembro de 2025). Se a equipe do bot inscrito tiver mais de um integrante, o *voucher* de um rodízio será dividido igualmente entre todos os membros. Possivelmente teremos uma singela lembrança para todos os participantes.
 
 ## <a name="tutoriais"></a>Tutoriais e Outros Recursos
 
