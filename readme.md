@@ -15,7 +15,7 @@
 
 **Horário:** 15h30-17h00
 
-**Local:** \({\color{red}\textsf{A definir}}\)
+**Local:** Anfiteatro Inferior (Centro de Aulas 1, UFJ Jatobá)
 
 **Disciplina:** Inteligência Artificial (ICE0627) — 2026.2
 
